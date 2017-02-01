@@ -1,9 +1,6 @@
 Master line
 
-asldf
-asdvebnns
-efjeinchs
-
+Where are the ducks?
 
 reg price mpg, robust
 
